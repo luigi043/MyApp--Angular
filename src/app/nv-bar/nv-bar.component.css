@@ -1,0 +1,23 @@
+form#form{
+    
+    display:flex;
+    justify-content: flex-end;
+    background-color: var(--secondary-color);
+    align-items: center;
+}
+
+nav.navbar {
+    padding: 5px;
+    background: black;
+    align-items: center;
+    
+
+}
+
+img#logo {
+    align-items: Top Left;
+    height: 90px;
+    width:90px;
+}
+
+
